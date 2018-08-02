@@ -11,10 +11,7 @@
 
 import java.util.Scanner;
 import java.math.BigInteger;
-/**
- *
- * @author Playdough
- */
+
 public class karatsuba {
 
     /**
